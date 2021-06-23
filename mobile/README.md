@@ -26,10 +26,10 @@
 
 ## Como iniciar
 
-Faça um clone desse repositório e acesse a pasta frontend:
+Faça um clone desse repositório e acesse a pasta mobile:
 
-    git clone https://github.com/DouglasVarollo/OmniStack6.git
-    cd OmniStack6/mobile
+    git clone https://github.com/LucasNeiaTorres/semana-omnistack-6.git
+    cd semana-omnistack-6/mobile
 
 Agora nós precisamos instalar as dependências, podemos usar o yarn ou npm:
 
