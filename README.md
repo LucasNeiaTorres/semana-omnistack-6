@@ -1,5 +1,5 @@
 <h1 align="center">Semana Omnistack 6</h1>
-<p align="center">Projeto desenvolvido durante a semana OmniStack 6.0 da Rocketseat.</p>
+<p align="center">Projeto desenvolvido durante a Semana OmniStack 6 da Rocketseat.</p>
 
 ## Sobre o projeto
 

@@ -14,10 +14,10 @@
 
 ## Como iniciar
 
-Faça um clone desse repositório e acesse a pasta backend:
+Faça um clone desse repositório e acesse a pasta back-end:
 
-    git clone https://github.com/DouglasVarollo/OmniStack6.git
-    cd OmniStack6/backend
+    git clone https://github.com/LucasNeiaTorres/semana-omnistack-6.git
+    cd semana-omnistack-6/back-end
 
 Agora nós precisamos instalar as dependências, podemos usar o yarn:
 
