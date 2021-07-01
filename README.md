@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-A ideia do projeto é criar um aplicativo semelhante ao Dropbox, utilizando a stack Node.js, ReactJS e React Native.
+A ideia do projeto é criar um aplicativo semelhante ao Dropbox, utilizando a stack: Node.js, ReactJS e React Native.
 
 ## Funcionalidades
 
